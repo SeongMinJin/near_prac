@@ -12,7 +12,6 @@
     "postinstall": "echo no frontend && cd integration-tests && npm install && cd .. && cd contract && npm install"
   },
   "devDependencies": {
-    "near-cli": "^3.3.0"
-  },
-  "dependencies": {}
+    "near-cli": "^3.4.2"
+  }
 }

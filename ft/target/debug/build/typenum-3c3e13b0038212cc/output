@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/goinfre/seojin/near_prac/ft/target/debug/build/typenum-3c3e13b0038212cc/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/goinfre/seojin/near_prac/ft/target/debug/build/typenum-3c3e13b0038212cc/out/op.rs

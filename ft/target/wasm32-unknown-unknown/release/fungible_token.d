@@ -1,0 +1,1 @@
+/goinfre/seojin/near_prac/ft/target/wasm32-unknown-unknown/release/fungible_token.wasm: /goinfre/seojin/near_prac/ft/src/events.rs /goinfre/seojin/near_prac/ft/src/ft_core.rs /goinfre/seojin/near_prac/ft/src/internal.rs /goinfre/seojin/near_prac/ft/src/lib.rs /goinfre/seojin/near_prac/ft/src/metadata.rs /goinfre/seojin/near_prac/ft/src/storage.rs
