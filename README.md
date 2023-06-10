@@ -4,6 +4,15 @@ near-blank-project
 This app was initialized with [create-near-app]
 
 
+
+### 2023 ETH Seoul Hackathon을 참가하기 위해
+### 블록체인 Layer 1 네트워크 중 하나인, Near Protocol에 대해
+### 공부해보기 위해 만든 Repository 입니다.
+
+
+
+
+
 Quick Start
 ===========
 
